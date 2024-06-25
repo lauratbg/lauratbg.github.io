@@ -26,8 +26,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Bienvenido a GitHub Pages</h1>
-        <p>Este es un sitio web básico alojado en GitHub Pages.</p>
+        <h1>Welcome to my web</h1>
+        <p>Working on it...</p>
     </div>
 </body>
 </html>
